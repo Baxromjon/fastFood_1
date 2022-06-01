@@ -1,0 +1,18 @@
+.body{
+    display: block;
+    background-color: white;
+}
+.card{
+    height: 330px;
+    display: block;
+    position: absolute;
+    float: left;
+    cursor: pointer;
+    background-color: #f7fef8;
+}
+.card-img-top{
+    height: 190px;
+}
+.cursor{
+    cursor: pointer;
+}

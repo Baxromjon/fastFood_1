@@ -1,0 +1,15 @@
+export const HOME_PATH  = '/';
+export const ABOUT_PATH  = '/about';
+export const SHOPPING_CART_PATH = '/client-shopping-cart';
+export const CHECKOUT_PATH = '/client-checkout';
+export const SIGNUP_PATH = '/signup';
+export const LOGIN_PATH = '/login';
+export const OUR_PRODUCTS_PATH = '/our-product';
+export const SERVICE_PATH = '/service';
+export const ADD_PRODUCT_PATH='/admin/main-page';
+export const CLIENT_CABINET_PATH='/client/main-page';
+export const ADMIN_CABINET_PATH='/admin';
+export const ORDER_PATH='/order';
+export const Product_PATH='/admin-product';
+export const DRINKS_PATH='/drinks';
+export const DASHBOARD_PATH='/dashboard-main';
